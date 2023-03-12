@@ -1,0 +1,677 @@
+Test Run : 
+
+What character would you like to play as? Brawler, Runner, Sneaker, or Thief?: 
+Runner
+What would you like to name your character?: 
+Lincoln
+No creatures present in room. Would you like to move, search, or celebrate?: 
+move
+Runner celebrates: dance, dance, jump, jump, shout, shout, spin, spin.
+RotLA Turn 1:
+
+0-1-1: :
+
+1-0-0: :B            1-0-1: :O            1-0-2: :O
+
+1-1-0: :            1-1-1: R:S            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :OB            2-0-1: :            2-0-2: :BB
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :O            3-0-2: :
+
+3-1-0: :            3-1-1: :            3-1-2: :
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     0 Treasure(s)     -    9 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     3 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 1
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-1-1   Health: 9   Treasure: 
+
+
+Total Active Creatures: 11
+Creature: Orbiter   Room: 1-0-1
+Creature: Orbiter   Room: 1-0-2
+Creature: Orbiter   Room: 2-0-0
+Creature: Seeker   Room: 1-1-1
+Creature: Orbiter   Room: 3-0-1
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 2-0-2
+Creature: Blinker   Room: 1-0-0
+Creature: Blinker   Room: 2-0-0
+Creature: Blinker   Room: 2-0-2
+Creature: Seeker   Room: 4-2-0
+
+Creatures present in room. Would you like to move, or fight?: 
+fight
+Runner celebrates: dance, dance, jump, jump, shout, shout, spin, spin.
+RotLA Turn 2:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: :O            1-0-2: :O
+
+1-1-0: :            1-1-1: R:            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :            2-0-1: :O            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :B            3-0-1: :            3-0-2: :O
+
+3-1-0: :            3-1-1: :            3-1-2: :B
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :B            4-0-1: :B            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     0 Treasure(s)     -    9 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 2
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-1-1   Health: 9   Treasure: 
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-0-1
+Creature: Orbiter   Room: 1-0-2
+Creature: Orbiter   Room: 2-0-1
+Creature: Orbiter   Room: 3-0-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 4-0-1
+Creature: Blinker   Room: 3-1-2
+Creature: Blinker   Room: 4-0-0
+Creature: Blinker   Room: 3-0-0
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+celebrate
+Runner celebrates: dance, dance, jump, jump, shout, shout, spin, spin.
+RotLA Turn 3:
+
+0-1-1: :
+
+1-0-0: :O            1-0-1: :            1-0-2: :B
+
+1-1-0: :            1-1-1: R:            1-1-2: :O
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :            2-0-1: :            2-0-2: :O
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :B            3-1-1: :            3-1-2: :O
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :BB            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     0 Treasure(s)     -    9 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 3
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-1-1   Health: 9   Treasure: 
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-0-0
+Creature: Orbiter   Room: 1-1-2
+Creature: Orbiter   Room: 2-0-2
+Creature: Orbiter   Room: 3-1-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 4-1-1
+Creature: Blinker   Room: 4-1-1
+Creature: Blinker   Room: 1-0-2
+Creature: Blinker   Room: 3-1-0
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+search
+RotLA Turn 4:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: :            1-0-2: :
+
+1-1-0: :O            1-1-1: R:            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :O
+
+2-0-0: :            2-0-1: :            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :OB
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :            3-1-1: :            3-1-2: :
+
+3-2-0: :            3-2-1: :S            3-2-2: :O
+
+4-0-0: :            4-0-1: :B            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :B
+
+4-2-0: :SB            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    10 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 4
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-1-1   Health: 10   Treasure: , Potion
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-1-0
+Creature: Orbiter   Room: 1-2-2
+Creature: Orbiter   Room: 2-1-2
+Creature: Orbiter   Room: 3-2-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 4-2-0
+Creature: Blinker   Room: 2-1-2
+Creature: Blinker   Room: 4-0-1
+Creature: Blinker   Room: 4-1-2
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+move
+RotLA Turn 5:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: R:            1-0-2: :
+
+1-1-0: :            1-1-1: :            1-1-2: :
+
+1-2-0: :O            1-2-1: :O            1-2-2: :
+
+2-0-0: :            2-0-1: :            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :B            2-2-1: :            2-2-2: :O
+
+3-0-0: :            3-0-1: :            3-0-2: :BB
+
+3-1-0: :            3-1-1: :            3-1-2: :
+
+3-2-0: :            3-2-1: :SO            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :B            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    10 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 5
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-1   Health: 10   Treasure: , Potion
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-2-0
+Creature: Orbiter   Room: 1-2-1
+Creature: Orbiter   Room: 2-2-2
+Creature: Orbiter   Room: 3-2-1
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 3-0-2
+Creature: Blinker   Room: 4-1-1
+Creature: Blinker   Room: 2-2-0
+Creature: Blinker   Room: 3-0-2
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+search
+RotLA Turn 6:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: R:            1-0-2: :
+
+1-1-0: :            1-1-1: :            1-1-2: :
+
+1-2-0: :OB            1-2-1: :O            1-2-2: :
+
+2-0-0: :            2-0-1: :            2-0-2: :B
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :O            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :            3-1-1: :B            3-1-2: :B
+
+3-2-0: :O            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    10 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 6
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-1   Health: 10   Treasure: , Potion
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-2-0
+Creature: Orbiter   Room: 1-2-1
+Creature: Orbiter   Room: 2-2-1
+Creature: Orbiter   Room: 3-2-0
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 2-0-2
+Creature: Blinker   Room: 3-1-2
+Creature: Blinker   Room: 3-1-1
+Creature: Blinker   Room: 1-2-0
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+move
+RotLA Turn 7:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: :            1-0-2: R:
+
+1-1-0: :O            1-1-1: :            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :O
+
+2-0-0: :            2-0-1: :            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :B
+
+2-2-0: :O            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :BO            3-1-1: :            3-1-2: :B
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :B            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    10 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 7
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-2   Health: 10   Treasure: , Potion
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-1-0
+Creature: Orbiter   Room: 1-2-2
+Creature: Orbiter   Room: 2-2-0
+Creature: Orbiter   Room: 3-1-0
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 3-1-0
+Creature: Blinker   Room: 2-1-2
+Creature: Blinker   Room: 4-1-1
+Creature: Blinker   Room: 3-1-2
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+move
+RotLA Turn 8:
+
+0-1-1: :
+
+1-0-0: :O            1-0-1: R:            1-0-2: :
+
+1-1-0: :            1-1-1: :            1-1-2: :O
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :            2-0-1: :            2-0-2: :
+
+2-1-0: :O            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :O            3-0-1: :            3-0-2: :
+
+3-1-0: :            3-1-1: :            3-1-2: :B
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :B
+
+4-1-0: :            4-1-1: :            4-1-2: :B
+
+4-2-0: :SB            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    10 Health
+
+Orbiters     -     4 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 8
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-1   Health: 10   Treasure: , Potion
+
+
+Total Active Creatures: 10
+Creature: Orbiter   Room: 1-0-0
+Creature: Orbiter   Room: 1-1-2
+Creature: Orbiter   Room: 2-1-0
+Creature: Orbiter   Room: 3-0-0
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 4-0-2
+Creature: Blinker   Room: 4-1-2
+Creature: Blinker   Room: 3-1-2
+Creature: Blinker   Room: 4-2-0
+Creature: Seeker   Room: 4-2-0
+
+Creatures present in room. Would you like to move, or fight?: 
+fight
+Runner celebrates: dance, dance, jump, jump, shout, shout, spin, spin.
+RotLA Turn 9:
+
+0-1-1: :
+
+1-0-0: :            1-0-1: R:            1-0-2: :O
+
+1-1-0: :            1-1-1: :            1-1-2: :
+
+1-2-0: :B            1-2-1: :            1-2-2: :
+
+2-0-0: :O            2-0-1: :            2-0-2: :
+
+2-1-0: :B            2-1-1: :            2-1-2: :
+
+2-2-0: :B            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :O            3-0-2: :
+
+3-1-0: :            3-1-1: :            3-1-2: :
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :B            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    9 Health
+
+Orbiters     -     3 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 9
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-1   Health: 9   Treasure: , Potion
+
+
+Total Active Creatures: 9
+Creature: Orbiter   Room: 1-0-2
+Creature: Orbiter   Room: 2-0-0
+Creature: Orbiter   Room: 3-0-1
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 2-2-0
+Creature: Blinker   Room: 1-2-0
+Creature: Blinker   Room: 4-1-1
+Creature: Blinker   Room: 2-1-0
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+move
+RotLA Turn 10:
+
+0-1-1: :
+
+1-0-0: R:            1-0-1: :O            1-0-2: :
+
+1-1-0: :            1-1-1: :            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :            2-0-1: :O            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :BO
+
+3-1-0: :            3-1-1: :B            3-1-2: :
+
+3-2-0: :            3-2-1: :S            3-2-2: :
+
+4-0-0: :            4-0-1: :            4-0-2: :B
+
+4-1-0: :            4-1-1: :            4-1-2: :B
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     1 Treasure(s)     -    9 Health
+
+Orbiters     -     3 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 10
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-0   Health: 9   Treasure: , Potion
+
+
+Total Active Creatures: 9
+Creature: Orbiter   Room: 1-0-1
+Creature: Orbiter   Room: 2-0-1
+Creature: Orbiter   Room: 3-0-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 3-0-2
+Creature: Blinker   Room: 4-1-2
+Creature: Blinker   Room: 4-0-2
+Creature: Blinker   Room: 3-1-1
+Creature: Seeker   Room: 4-2-0
+
+No creatures present in room. Would you like to move, search, or celebrate?: 
+search
+RotLA Turn 11:
+
+0-1-1: :
+
+1-0-0: R:O            1-0-1: :            1-0-2: :
+
+1-1-0: :            1-1-1: :            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :B
+
+2-0-0: :            2-0-1: :            2-0-2: :O
+
+2-1-0: :            2-1-1: :            2-1-2: :
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :            3-1-1: :B            3-1-2: :O
+
+3-2-0: :            3-2-1: :S            3-2-2: :B
+
+4-0-0: :B            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :
+
+4-2-0: :S            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     2 Treasure(s)     -    8 Health
+
+Orbiters     -     3 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 11
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-0   Health: 8   Treasure: , Potion, Gem
+
+
+Total Active Creatures: 9
+Creature: Orbiter   Room: 1-0-0
+Creature: Orbiter   Room: 2-0-2
+Creature: Orbiter   Room: 3-1-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 1-2-2
+Creature: Blinker   Room: 4-0-0
+Creature: Blinker   Room: 3-1-1
+Creature: Blinker   Room: 3-2-2
+Creature: Seeker   Room: 4-2-0
+
+Creatures present in room. Would you like to move, or fight?: 
+fight
+RotLA Turn 12:
+
+0-1-1: :
+
+1-0-0: R:O            1-0-1: :            1-0-2: :B
+
+1-1-0: :B            1-1-1: :            1-1-2: :
+
+1-2-0: :            1-2-1: :            1-2-2: :
+
+2-0-0: :            2-0-1: :            2-0-2: :
+
+2-1-0: :            2-1-1: :            2-1-2: :O
+
+2-2-0: :            2-2-1: :            2-2-2: :
+
+3-0-0: :            3-0-1: :            3-0-2: :
+
+3-1-0: :            3-1-1: :            3-1-2: :
+
+3-2-0: :B            3-2-1: :S            3-2-2: :O
+
+4-0-0: :            4-0-1: :            4-0-2: :
+
+4-1-0: :            4-1-1: :            4-1-2: :
+
+4-2-0: :SB            4-2-1: :            4-2-2: :
+
+
+
+Runner     -     2 Treasure(s)     -    6 Health
+
+Orbiters     -     3 Remaining
+Seekers     -     2 Remaining
+Blinkers     -     4 Remaining
+
+Tracker: Turn 12
+
+Total Active Adventurers: 1
+Adventurer: Runner   Room: 1-0-0   Health: 7   Treasure: , Potion, Gem
+
+
+Total Active Creatures: 8
+Creature: Orbiter   Room: 2-1-2
+Creature: Orbiter   Room: 3-2-2
+Creature: Seeker   Room: 3-2-1
+Creature: Blinker   Room: 1-1-0
+Creature: Blinker   Room: 3-2-0
+Creature: Blinker   Room: 1-0-2
+Creature: Blinker   Room: 4-2-0
+Creature: Seeker   Room: 4-2-0
